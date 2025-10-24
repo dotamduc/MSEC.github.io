@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WEBs on Blowfish</title>
-    <link>http://localhost:53395/web/</link>
+    <link>http://localhost:1313/web/</link>
     <description>Recent content in WEBs on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:53395/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CovertS</title>
+      <link>http://localhost:1313/web/1761281434435-coverts/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/1761281434435-coverts/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761281434435-coverts/featured.png" />
+    </item>
     
     <item>
       <title>Leak Force</title>
-      <link>http://localhost:53395/web/1761281315568-leak-force/</link>
+      <link>http://localhost:1313/web/1761281315568-leak-force/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53395/web/1761281315568-leak-force/</guid>
+      <guid>http://localhost:1313/web/1761281315568-leak-force/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:53395/web/1761281315568-leak-force/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761281315568-leak-force/featured.png" />
+    </item>
+    
+    <item>
+      <title>ZC-1</title>
+      <link>http://localhost:1313/web/1761281419256-zc-1/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/1761281419256-zc-1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761281419256-zc-1/featured.png" />
     </item>
     
   </channel>
