@@ -1,0 +1,126 @@
+autoSwitchAppearance = true
+buymeacoffee = { }
+colorScheme = "fire"
+defaultAppearance = "dark"
+defaultBackgroundImage = "700_F_713871921_fSHUhsJQSqbwCDKedRgkrQZexZJFfB3p_ST.gif"
+defaultFeaturedImage = "featured.svg"
+defaultSocialImage = "/img/blowfish.jpg"
+disableImageOptimization = false
+disableTextInHeader = false
+enableCodeCopy = false
+enableSearch = true
+fathomAnalytics = { }
+firebase = { }
+forgejoDefaultServer = "https://v8.next.forgejo.org"
+giteaDefaultServer = "https://git.fsfe.org"
+highlightCurrentMenuArea = true
+replyByEmail = false
+rssnext = { }
+selineAnalytics = { }
+smartTOC = true
+smartTOCHideUnfocusedChildren = false
+umamiAnalytics = { }
+verification = { }
+
+[header]
+layout = "fixed-fill-blur"
+
+[footer]
+showAppearanceSwitcher = true
+showCopyright = true
+showMenu = true
+showScrollToTop = true
+showThemeAttribution = true
+
+[homepage]
+cardView = true
+cardViewScreenWidth = false
+disableHeroImageFilter = false
+homepageImage = "4.gif"
+layout = "background"
+layoutBackgroundBlur = true
+showMoreLink = true
+showMoreLinkDest = ""
+showRecent = true
+showRecentItems = 12
+
+[article]
+editAppendPath = true
+heroStyle = "background"
+invertPagination = false
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = true
+relatedContentLimit = 6
+seriesOpened = false
+sharingLinks = [
+  "linkedin",
+  "twitter",
+  "red",
+  "reddit",
+  "whatsapp",
+  "telegram",
+  "pinterest",
+  "facebook",
+  "email"
+]
+showAuthor = true
+showAuthorsBadges = true
+showBreadcrumbs = true
+showCategoryOnly = true
+showDate = true
+showDateOnlyInArticle = false
+showDateUpdated = false
+showDraftLabel = true
+showEdit = false
+showHeadingAnchors = true
+showHero = true
+showLikes = true
+showPagination = true
+showReadingTime = true
+showRelatedContent = true
+showTableOfContents = true
+showTaxonomies = true
+showViews = true
+showWordCount = false
+showZenMode = true
+
+[list]
+cardView = true
+cardViewScreenWidth = false
+constrainItemsWidth = false
+groupByYear = false
+heroStyle = "background"
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = true
+orderByWeight = true
+showBreadcrumbs = false
+showCards = true
+showHero = true
+showLikes = false
+showSummary = ""
+showTableOfContents = true
+showViews = false
+
+[sitemap]
+excludedKinds = [ "taxonomy", "term" ]
+
+[taxonomy]
+cardView = false
+heroStyle = "background"
+showBreadcrumbs = false
+showHero = true
+showLikes = false
+showTableOfContents = true
+showTermCount = true
+showViews = false
+
+[term]
+cardView = true
+cardViewScreenWidth = false
+groupByYear = false
+heroStyle = "background"
+showBreadcrumbs = false
+showHero = true
+showLikes = false
+showTableOfContents = true
+showViews = false
